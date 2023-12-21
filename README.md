@@ -15,7 +15,7 @@ The dataset used for this project is retrieved from 'Javna_parkiralista_za_bicik
 
 ### File Details:
 - **File Name:** 'Javna_parkiralista_za_bicikle.csv'
-- **Location:** 'E:/Javna_parkiralista_za_bicikle.csv'
+- **Location:** 'your_path.csv'
 
 ## Usage
 
